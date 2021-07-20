@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AccountApplication<transactions-account>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.pichincha.backend.test.AccountApplication",
+            "projectName": "transactions-account",
+            "args": ""
+        }
+    ]
+}
