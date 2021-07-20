@@ -15,4 +15,23 @@ public class AccountDto {
 
 	private final LocalDateTime creationDate;
 
+	public AccountDto(String number, String type, LocalDateTime creationDate) {
+		super();
+		this.number = number;
+		this.type = type;
+		this.creationDate = creationDate;
+	}
+
+	public String getNumber() {
+		return number;
+	}
+
+	public String getType() {
+		return type;
+	}
+
+	public LocalDateTime getCreationDate() {
+		return creationDate;
+	}
+
 }

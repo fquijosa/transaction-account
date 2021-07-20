@@ -1,0 +1,51 @@
+ INFO [Log.java:29] - Se inserto una transaccion con el 1
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Se inserto una transaccion con el 3
+ INFO [Log.java:29] - Se inserto una transaccion con el 4
+ INFO [Log.java:29] - Se inserto una transaccion con el 5
+ INFO [Log.java:29] - Se inserto una transaccion con el 6
+ INFO [Log.java:29] - Se inserto una transaccion con el 7
+ INFO [Log.java:29] - Se inserto una transaccion con el 8
+ INFO [Log.java:29] - Se inserto una transaccion con el 9
+ INFO [Log.java:29] - Se inserto una transaccion con el 10
+ INFO [Log.java:29] - Se inserto una transaccion con el 11
+ INFO [Log.java:29] - Se inserto una transaccion con el 12
+ INFO [Log.java:29] - Se inserto una transaccion con el 13
+ INFO [Log.java:29] - Ocurrio un error el getTransactionsForAccount
+ INFO [Log.java:29] - Log de la excepcion org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: from near line 1, column 9 [select  from com.pichincha.backend.test.model.Transaction as generatedAlias0 where generatedAlias0.accountId=:param0]; nested exception is java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: from near line 1, column 9 [select  from com.pichincha.backend.test.model.Transaction as generatedAlias0 where generatedAlias0.accountId=:param0]
+ INFO [Log.java:29] - Se inserto una transaccion con el 1
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Se inserto una transaccion con el 3
+ INFO [Log.java:29] - Se inserto una transaccion con el 4
+ INFO [Log.java:29] - Se inserto una transaccion con el 5
+ INFO [Log.java:29] - Se inserto una transaccion con el 6
+ INFO [Log.java:29] - Se inserto una transaccion con el 7
+ INFO [Log.java:29] - Se inserto una transaccion con el 8
+ INFO [Log.java:29] - Se inserto una transaccion con el 9
+ INFO [Log.java:29] - Se inserto una transaccion con el 10
+ INFO [Log.java:29] - Ocurrio un error el getTransactionsForAccount
+ INFO [Log.java:29] - Log de la excepcion org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: from near line 1, column 9 [select  from com.pichincha.backend.test.model.Transaction as generatedAlias0 where generatedAlias0.accountId=:param0]; nested exception is java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: from near line 1, column 9 [select  from com.pichincha.backend.test.model.Transaction as generatedAlias0 where generatedAlias0.accountId=:param0]
+ INFO [Log.java:29] - Se inserto una transaccion con el 1
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Se inserto una transaccion con el 3
+ INFO [Log.java:29] - Se inserto una transaccion con el 4
+ INFO [Log.java:29] - Se inserto una transaccion con el 1
+ INFO [Log.java:29] - Se inserto una transaccion con el 1
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Ocurrio un error el getTransactionsForAccount
+ INFO [Log.java:29] - Log de la excepcion org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: from near line 1, column 9 [select  from com.pichincha.backend.test.model.Transaction as generatedAlias0 where generatedAlias0.accountId=:param0]; nested exception is java.lang.IllegalArgumentException: org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: from near line 1, column 9 [select  from com.pichincha.backend.test.model.Transaction as generatedAlias0 where generatedAlias0.accountId=:param0]
+ INFO [Log.java:29] - Se inserto una transaccion con el 1
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Se inserto una transaccion con el 3
+ INFO [Log.java:29] - Se inserto una transaccion con el 4
+ INFO [Log.java:29] - Se inserto una transaccion con el 5
+ INFO [Log.java:29] - Se inserto una transaccion con el 6
+ INFO [Log.java:29] - Se inserto una transaccion con el 7
+ INFO [Log.java:29] - Se inserto una transaccion con el 8
+ INFO [Log.java:29] - Se inserto una transaccion con el 9
+ INFO [Log.java:29] - Se inserto una transaccion con el 10
+ INFO [Log.java:29] - Se inserto una transaccion con el 11
+ INFO [Log.java:29] - Se inserto una transaccion con el 12
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
+ INFO [Log.java:29] - Se inserto una transaccion con el 2
